@@ -1,0 +1,43 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    color:darkblue;
+    background-color: lightpink;
+    font-size: 24px;
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+}
+
+img{
+    border: double 15px rgb(160, 180, 255);
+    padding: 20px;
+    width: 24%;
+}
+
+li{
+    width: 24%;
+    padding: 20px 30px;
+    border: solid 5px black;
+    border-radius: 20px;
+
+}
+
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    display: inline;
+    margin-left: 25px;
+    list-style-type: upper-roman;
+    margin-bottom: 25px;
+    background:  rgb(190, 204, 255);
+    overflow:scroll;
+ }
+ 
+ ul{
+    padding-top: 45px;
+    padding-bottom: 30px;
+
+ }
