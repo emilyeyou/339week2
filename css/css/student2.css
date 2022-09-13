@@ -1,0 +1,47 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+    background-color: rgb(221, 245, 255);
+ }
+  
+ h1,h2,h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ ul{
+   padding: 20px;
+ }
+
+ nav li{
+   display: inline;
+   border: solid 2px;
+   padding: 10px;
+   margin: none;
+   background-color: rgb(237, 198, 255);
+   border-radius: 18px;
+ }
+
+img{
+   width: 24%;
+   padding: 12px;
+   border: ridge 5px rgb(151, 78, 230);
+   margin: none; 
+}
+
+p{
+   font-style: normal;
+   font-size: medium;
+   color:rgb(0, 0, 0);
+   padding: 12px;
+   margin: 12px;
+   border: solid 2px;
+   background-color:rgb(240, 219, 255);
+   border-radius: 18px;
+}
